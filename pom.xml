@@ -6,7 +6,7 @@
 	<groupId>org.springframework</groupId>
 	<artifactId>visitor-counter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>visitor-counter</name>
 	<url>http://maven.apache.org</url>

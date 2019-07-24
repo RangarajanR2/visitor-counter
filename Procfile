@@ -1,1 +1,2 @@
-web: mvn spring-boot:run
+web: java -jar target/visitor-counter.jar
+
