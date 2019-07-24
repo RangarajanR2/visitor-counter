@@ -14,7 +14,6 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<mongodb.version>3.6.4</mongodb.version>
-		<server.port>$PORT</server.port>
 	</properties>
 
 	<parent>

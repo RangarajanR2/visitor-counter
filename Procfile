@@ -1,2 +1,1 @@
-web: java -jar target/visitor-counter.jar -Dserver.port=$PORT $JAR_OPTS
-
+web: java -jar -Dserver.port=$PORT target/visitor-counter.jar
